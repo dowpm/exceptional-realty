@@ -1,2 +1,10 @@
 Exceptional Realty Group Website
-his is an example site for the Intro to Front-End Web Development course at the Flatiron School
+---
+
+# Description
+
+This is an example site for the Intro to Front-End Web Development course at the Flatiron School
+
+# Contact
+
+email: macdowell@noukod.com
